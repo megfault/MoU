@@ -48,6 +48,10 @@ Daraus folgt, dass ein Freifunk Netz dort endet, wo das Internet oder ein privat
 
 ### Ziele von Freifunk
 
+(to be translated)
+
+### Principles of Freifunk (title to be translated)
+
 Der Aufbau eines Freifunk Netzes ist ein Prozess. Uns ist bewusst, dass wir nicht alle Ziele vollständig erreichen können. Deswegen sollen wir regelmäßig kritisch reflektieren und unsere Ansätze diskutieren. Für uns ist das Kennenlernen und die Verbesserung sozialer und technologischer Strukturen von größter Bedeutung.
 
 Wir sind engagiert eine respektvolle, für alle offene Umgebung zu fördern - notwendig für das Lernen und Zusammenarbeiten - und tolerieren keine Diskriminierung jedweder Art. Wir halten Ideenvielfalt für eine wichtige Grundlage zum Erreichen unserer Ziele. Jeder, der gewillt ist Freifunk zu unterstützen ist bei uns willkommen, ungeachtet seines sozialen oder technischen Hintergrundes, sofern er unseren Prinzipien der Offenheit und nicht-Diskriminierung folgt.
