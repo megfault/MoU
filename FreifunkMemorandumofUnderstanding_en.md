@@ -8,7 +8,7 @@ With this Memorandum of Understanding (MoU) we would like to commit to a common,
 * Which goals do we pursue?
 * What principles guide us in our decisions and actions?
 
-The goal of this text is to develop an understanding which connects all individuals and group who act under the label Freifunk. Despite the independence of the different communities, we think it is reasonable and important to come to a common understanding on the basic principles of Freifunk, in order to act jointly and support each other in our activities.
+The goal of this text is to develop an understanding which connects all individuals and groups who act under the label Freifunk. Despite the independence of the different communities, we think it is reasonable and important to come to a common understanding on the basic principles of Freifunk, in order to act jointly and support each other in our activities.
 
 ## Preamble - What is a Free Network?
 
